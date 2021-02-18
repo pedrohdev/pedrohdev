@@ -1,16 +1,17 @@
-### Hi there 👋
+![](./images/banner_github.png)
 
-<!--
-**PedroHdev/PedroHdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub :computer: :smile:
+![](https://visitor-badge.laobi.icu/badge?page_id=PedroHdev.PedroHdev) ![Github](https://img.shields.io/github/followers/PedroHdev?label=Follow&style=social)
 
-Here are some ideas to get you started:
+# :mortar_board: I'm Student and love technology :heart_eyes: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :walking: I'm 13 years old
+- :nerd_face: :computer: I'm a Web Developer
+- :blue_heart: I love JavaScript
+- 🇧🇷 I'm Brazilian
+
+# :computer: Technologies
+![](./images/node_shield.svg) ![](./images/javascript_shield.svg) ![](./images/php_shield.svg) ![](./images/html_shield.svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=PedroHdev&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHdev&theme=light">
