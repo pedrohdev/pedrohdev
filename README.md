@@ -11,7 +11,7 @@
 - 🇧🇷 I'm Brazilian
 
 # :computer: Technologies
-![](./images/node_shield.svg) ![](./images/javascript_shield.svg) ![](./images/php_shield.svg) ![](./images/html_shield.svg)
+![](./images/node_shield.svg) ![](./images/javascript_shield.svg) ![](./images/php_shield.svg) ![](./images/html_shield.svg) ![](./images/css_shield.svg) ![](./images/vue_shield.svg) ![](./images/vercel_shield.svg) ![](./images/github_shield.svg) ![](./images/mysql_shield.svg) 
 
-<img src="https://github-readme-stats.vercel.app/api?username=PedroHdev&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHdev&theme=light">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroHdev&show_icons=true&theme=tokyonight"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHdev&theme=light">
