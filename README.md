@@ -6,7 +6,6 @@
 # :mortar_board: I'm Student and love technology :heart_eyes: 
 
 🌐[My Blog](https://pedro-henrique-dev.vercel.app/)
-- :walking: I'm 13 years old
 - :nerd_face: :computer: I'm a Web Developer
 - :blue_heart: I love JavaScript
 - 🇧🇷 I'm Brazilian
