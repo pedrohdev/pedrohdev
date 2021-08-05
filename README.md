@@ -3,7 +3,7 @@
 # Welcome to my GitHub :computer: :smile:
 ![](https://visitor-badge.laobi.icu/badge?page_id=PedroHdev.PedroHdev) ![Github](https://img.shields.io/github/followers/PedroHdev?label=Follow&style=social)
 
-# :mortar_board: I'm Student and love technology :heart_eyes: 
+# :mortar_board: I love technology :heart_eyes: 
 
 🌐[My Blog](https://pedro-henrique-dev.vercel.app/)
 - :nerd_face: :computer: I'm a Web Developer
