@@ -25,7 +25,6 @@
 </div>
 
 <br/>
-<br/>
 
 - **🕷 Scraping enthusiast**
 - **🔭 Full-Stack developer**
@@ -33,7 +32,7 @@
 - **☕ Coffee drinker**
 - **❤ Typescript/Javascript**
 - **💻 Vue.js/React**
-<br/>
+
 <br/>
 
 <div align="center">
