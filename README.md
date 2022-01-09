@@ -23,6 +23,8 @@
   </a>
 </div>
 
+<br/>
+
 - **🕷 Scraping enthusiast**
 - **🔭 Full-Stack developer**
 - **🐳 Dockerizing**
