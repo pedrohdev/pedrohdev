@@ -1,4 +1,4 @@
-<h2>
+<h2 align="center">
  Hii! I'm Henrique 👋
  <a href="https://github.com/pedrohdev/">
   <img align="right" alt="My Avatar" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/64736691?v=4"/>
