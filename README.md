@@ -6,9 +6,21 @@
 </h2>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/pedro-henrique-089539219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:example@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://t.me/pedrohenriquedev" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+ <a href="https://t.me/pedrohenriquedev">
+  <img src="https://img.shields.io/badge/Telegram-0D6BDB?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+ </a>
+
+ <a href="https://pedrohdev.tech">
+  <img src="https://img.shields.io/badge/Website-FF5244?style=for-the-badge&logo=website&logoColor=white">
+ </a>
+
+ <a href="https://www.linkedin.com/in/pedro-henrique-089539219/">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a> 
+
+  <a href="mailto:contact@pedrohdev.tech">
+   <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 - **🕷 Scraping enthusiast**
