@@ -5,6 +5,7 @@
  </a>
 </h2>
 
+
 <div align="center">
  <a href="https://t.me/pedrohenriquedev">
   <img src="https://img.shields.io/badge/Telegram-0D6BDB?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
@@ -24,9 +25,19 @@
 </div>
 
 <br/>
+<br/>
 
 - **🕷 Scraping enthusiast**
 - **🔭 Full-Stack developer**
 - **🐳 Dockerizing**
 - **☕ Coffee drinker**
 - **❤ Typescript/Javascript**
+- **💻 Vue.js/React**
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/pedrohdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohdev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
