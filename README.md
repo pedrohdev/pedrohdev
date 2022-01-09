@@ -1,12 +1,8 @@
 <h2 align="center">
  Hii! I'm Henrique 👋
- <a href="https://github.com/pedrohdev/">
-  <img align="right" alt="My Avatar" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/64736691?v=4"/>
- </a>
 </h2>
 
-
-<div align="center">
+<div align="center" style="display: inline_block;">
  <a href="https://t.me/pedrohenriquedev">
   <img src="https://img.shields.io/badge/Telegram-0D6BDB?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
  </a>
