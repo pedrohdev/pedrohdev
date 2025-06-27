@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center" style="display: inline_block;">
- <a href="https://t.me/pedrohenriquedev">
+ <!-- <a href="https://t.me/pedrohenriquedev">
   <img src="https://img.shields.io/badge/Telegram-0D6BDB?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
  </a>
 
@@ -17,7 +17,7 @@
 
   <a href="mailto:contact@pedrohdev.tech">
    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a> -->
 </div>
 
 <br/>
